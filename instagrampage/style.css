@@ -1,0 +1,113 @@
+*{
+    margin:0;
+}
+main h1{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    font-size: 45pt;
+}
+#main{
+    border:solid 2px black;
+    margin-top:80px;
+    margin-left: 550px;
+    margin-right: 550px;
+    box-shadow: 2px 2px 4px 4px grey;
+}
+input{
+    display: flex;
+    justify-content: center;
+    margin-left: 60px;
+    height: 30px;
+    width:300px;
+    font-size: 13pt;
+    
+}
+button{
+    background-color: rgba(0, 145, 255, 0.685);
+    height: 30px;
+    width: 300px;
+    margin-left: 65px;
+
+    border-radius: 7px;
+    font-size: 13pt;
+}
+#textbox{
+    margin-top: 50px;
+}
+section p{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+}
+#cd{
+    height:8px;
+    width:200px;
+    border-bottom: solid 1px grey;
+}
+#two{
+    height:8px;
+    width:200px;
+    border-bottom: solid 1px grey;
+
+
+}
+#ab{
+    display: flex;
+    justify-content:center;
+    margin-right: 150px;
+    margin-top: 30px;
+    margin-left: 150px;
+    
+}
+#f{
+    display: flex;
+    justify-content: center;
+}
+#facebook{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+#pic{
+    margin-right: 20px;
+}
+#link{
+    margin-top: 5px;
+}
+#box2{
+    border:solid 2px black;
+    margin-top:10px;
+    margin-left: 550px;
+    margin-right: 550px;
+    padding-bottom: 20px;
+    padding-top: 20px;
+    box-shadow: 2px 2px 4px 4px grey;
+    width:420px;
+}
+#m{
+    font-size: 15pt;
+    margin-top: 20px;
+}
+#n{
+    display: flex;
+    justify-content: center;
+    font-size: 15pt;
+}
+#txt{
+    font-size: 15pt;
+    padding-bottom:20px ;
+}
+#x{
+    font-size: 15pt;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#y{
+    display: flex;
+    justify-content:center;
+    padding-bottom: 30px;
+}
+
