@@ -1,0 +1,41 @@
+h2 {
+    height: 40px;
+    background-image: linear-gradient(to right ,blue, purple,red);
+
+}
+#text1{
+    font-size: 18pt;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+#text2{
+    font-size: 15pt;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+}
+#one{
+    font-size: 15pt;
+    margin-left: 20px;
+    transform: translateX(30px);
+}
+#x{
+    font-size: 15pt;
+}
+h5{
+    font-size:14pt ;
+}
+ol{
+    font-size: 13pt;
+}
+h4{
+    font-size: 18pt;
+}
+#y{
+    font-size: 15pt;
+    padding-left: 30px;
+}
+#map{
+    padding-left: 30px;
+}
